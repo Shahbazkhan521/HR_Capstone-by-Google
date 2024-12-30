@@ -1,2 +1,2 @@
 # HR_Capstone-by-Google
-HR_Final project of Google Professionals Course for data analyst
+This report provides a comprehensive analysis of employee satisfaction, performance, and turnover within the company. The analysis leverages a dataset containing various employee metrics to identify key insights and provide strategic recommendations aimed at improving employee retention and overall organizational performance.
